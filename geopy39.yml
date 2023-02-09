@@ -1,0 +1,24 @@
+name: geopy39
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - "libblas=*=*mkl"
+  - numpy
+  - geopandas
+  - geoplot
+  - pysal
+  - folium
+  - scikit-learn
+  - rasterio
+  - pip
+  - pip:
+    - contextily
+    - libpysal
+    - mgwr
+    - mapclassify
+    - esda
+    - flopy
+    - xlrd
+    - openpyxl
