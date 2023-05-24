@@ -4,8 +4,6 @@ This Repo is meant to apply python to post proccess Modflow models
 
 Please modify the jupyternotebook in `notebook/freyberg_postproccess_exercise.ipynb` and submit a pdf of your results to
 
-rkushnereit@intera.com
-
 rharmon@intera.com
 
 jewing@intera.com
